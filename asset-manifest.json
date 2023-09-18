@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jytform/static/css/main.fc9068ee.css",
+    "main.js": "/Jytform/static/js/main.76d9527c.js",
+    "index.html": "/Jytform/index.html",
+    "main.fc9068ee.css.map": "/Jytform/static/css/main.fc9068ee.css.map",
+    "main.76d9527c.js.map": "/Jytform/static/js/main.76d9527c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc9068ee.css",
+    "static/js/main.76d9527c.js"
+  ]
+}
